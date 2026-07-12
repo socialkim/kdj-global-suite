@@ -1,0 +1,156 @@
+{
+  "quotes": [
+    {
+      "quote_ko": "한 줄로 정리하면 이렇게 얘기할 수 있을 것 같은데요. 구글이 빠진 자리, 엔비디아가 스며들었어.",
+      "quote_en": "If I had to sum it up in one line: the space Google left empty, NVIDIA quietly seeped into.",
+      "context_ko": "김덕진 소장이 CES 2025의 전체 트렌드를 한 문장으로 정리하며.",
+      "date": "2025-01-20",
+      "video_id": "lcDTz4k-mSk",
+      "timestamp": "01:25"
+    },
+    {
+      "quote_ko": "학원에서 수능을 열심히 배운 친구가 수능 공부는 잘할 수 있지만, 수학에서 완전히 새로운 깨달음을 얻기는 어렵잖아요. 그런 부분에서 이번 딥시크를 평가해야 되는 거고요.",
+      "quote_en": "A kid who crammed for the college entrance exam at a private academy can ace the test, but is unlikely to reach a genuinely new insight in mathematics. That's the lens through which we should evaluate DeepSeek.",
+      "context_ko": "김덕진 소장이 딥시크의 데이터 증류 논란과 그 한계를 비유로 정리하며.",
+      "date": "2025-01-27",
+      "video_id": "II78dEpFlr4",
+      "timestamp": "18:39"
+    },
+    {
+      "quote_ko": "요즘에 AI 시대가 되니까 사람들이 AI한테 시간을 주기 시작했어요. 여유를 주기 시작했다는 거거든요.",
+      "quote_en": "Now that the AI era is here, people have started giving AI time. We've started granting it the patience to work.",
+      "context_ko": "김덕진 소장이 딥리서치 등장 이후 '즉답'에서 '기다려주는 AI'로 사용 행태가 바뀐 것을 설명하며.",
+      "date": "2025-02-10",
+      "video_id": "XsSvngBWeC8",
+      "timestamp": "05:45"
+    },
+    {
+      "quote_ko": "중국의 무서움은 뭐냐면, 100점짜리 제품이 아니라 80점 정도의 완성도를 그냥 내는 거예요.",
+      "quote_en": "What makes China scary is this: instead of waiting for a 100-point product, they just ship at 80 points.",
+      "context_ko": "김덕진 소장이 MWC 2025에서 목격한 중국 기업들의 출시 전략과 한국식 완벽주의를 대비하며.",
+      "date": "2025-03-10",
+      "video_id": "cEYvxWoJmVs",
+      "timestamp": "13:03"
+    },
+    {
+      "quote_ko": "기술의 원천은 여전히 미국에 있지만, 돈 버는 비즈니스 구조들은 지금 중국이 잘 만들고 있다라고 저는 평가하고 있습니다.",
+      "quote_en": "The wellspring of the technology is still in America, but the business structures that actually make money — China is building those better right now.",
+      "context_ko": "김덕진 소장이 중국 AI 에이전트 '마누스' 열풍을 두고 미중 AI 경쟁의 구도를 정리하며.",
+      "date": "2025-03-17",
+      "video_id": "_zlbeXPMh1w",
+      "timestamp": "15:31"
+    },
+    {
+      "quote_ko": "이제는 20개를 다 연결하더라도 똑같은 규격이면, 마치 우리가 멀티탭에 똑같은 플러그를 뚝뚝뚝 끼우듯이 안정적으로 만들 수 있다는 게 MCP가 갖는 의미다.",
+      "quote_en": "Now, even if you connect twenty different things, as long as they share one standard it's like plugging identical plugs into a power strip — click, click, click. That's what MCP means.",
+      "context_ko": "김덕진 소장이 AI 연결 표준 MCP의 의미를 멀티탭에 비유해 설명하며.",
+      "date": "2025-04-07",
+      "video_id": "EZRDM0RUU8E",
+      "timestamp": "10:13"
+    },
+    {
+      "quote_ko": "한 사람 한 사람이 스타트업의 대표 같은 마인드를 가지고 AI 도구들을 일종의 직원처럼 부리는, 이런 사람을 에이전트 보스라고 얘기하는 거예요.",
+      "quote_en": "Each individual, with the mindset of a startup CEO, commanding AI tools like a staff of employees — that's what they call an 'agent boss.'",
+      "context_ko": "김덕진 소장이 마이크로소프트 보고서의 '에이전트 보스' 개념과 조직 변화를 소개하며.",
+      "date": "2025-05-05",
+      "video_id": "jOCeP1HDHg0",
+      "timestamp": "08:19"
+    },
+    {
+      "quote_ko": "우리가 돼지를 도살하기 전에 더 많은 고기를 얻으려고 일부러 돼지를 살찌우듯이, 처음에는 아주 가볍게 접근하다가 감정적으로 넘어온 것 같으면 투자나 가상화폐를 계속 사게 유도하는 겁니다.",
+      "quote_en": "Just as you fatten a pig before slaughter to get more meat, they start with the lightest touch — and once the victim is emotionally hooked, they steer them into buying investments or crypto, again and again.",
+      "context_ko": "김덕진 소장이 AI 로맨스 스캠의 이른바 '돼지 도살' 수법을 설명하며.",
+      "date": "2025-05-12",
+      "video_id": "W5xf9VB8Ltk",
+      "timestamp": "05:35"
+    },
+    {
+      "quote_ko": "AI가 정답을 내는 게 아니라 얘는 대답을 해주는 앤데, 우리는 그게 너무 정답인 줄 믿고 있다라는 거죠.",
+      "quote_en": "AI doesn't produce correct answers — it produces responses. The problem is that we keep believing those responses are the truth.",
+      "context_ko": "김덕진 소장이 AI 답변에 대한 과신과 법적 책임 문제를 짚으며.",
+      "date": "2025-06-02",
+      "video_id": "ha70K_i6GBI",
+      "timestamp": "16:47"
+    },
+    {
+      "quote_ko": "아모데이라는 사람에게 '인간 직원 한 명이 10억 달러 규모의 회사를 만들 수 있는 게 언제 될까요'라고 질문이 나왔거든요. 답은, 내년입니다.",
+      "quote_en": "Someone asked Amodei, 'When will a single human employee be able to build a billion-dollar company?' His answer: next year.",
+      "context_ko": "김덕진 소장이 AI 시대 1인 유니콘 기업의 등장 가능성을 전하며.",
+      "date": "2025-06-23",
+      "video_id": "3N7iZehbuwU",
+      "timestamp": "15:59"
+    },
+    {
+      "quote_ko": "스탠포드 박사급 AI가 울산 공장에서 즉시 일할 수 없는 거랑 똑같다는 거예요. 이건 지능이 아니라 경험의 문제가 된다.",
+      "quote_en": "It's like a Stanford PhD-level AI that still can't work a single shift at a factory in Ulsan. This isn't a problem of intelligence — it's a problem of experience.",
+      "context_ko": "김덕진 소장이 제조업 AI 도입이 더딘 이유인 현장 암묵지의 벽을 설명하며.",
+      "date": "2025-09-08",
+      "video_id": "rjYTxgVKHV0",
+      "timestamp": "08:29"
+    },
+    {
+      "quote_ko": "지난 3년간은 우리가 AI를 탐구했던 시간이라고 한다면, 앞으로는 AI가 우리를 탐구하고 학습해서 나의 생활과 행동을 바꿔가는 시대가 될 것이다.",
+      "quote_en": "If the past three years were the era of us exploring AI, what comes next is the era of AI exploring us — learning us, and reshaping how we live and act.",
+      "context_ko": "김덕진 소장이 장기 기억 메모리 경쟁과 AI 개인화 시대의 전환을 한 문장으로 정리하며.",
+      "date": "2025-10-27",
+      "video_id": "hrQ1SnrKIyg",
+      "timestamp": "07:27"
+    },
+    {
+      "quote_ko": "3년 전에 구글이 오픈AI 보고 코드레드를 선언했는데, 3년 만에 이제 반대로 오픈AI가 구글 보고 코드레드를 선언하는, 이 동네 판은 정말로 엄청나게 움직이고 있고요.",
+      "quote_en": "Three years ago Google declared code red over OpenAI. Three years later, it's OpenAI declaring code red over Google. That's how violently this whole arena keeps shifting.",
+      "context_ko": "김덕진 소장이 제미나이 3 등장 이후 뒤집힌 AI 경쟁 구도를 정리하며.",
+      "date": "2025-12-08",
+      "video_id": "Z6r_H2hXFZc",
+      "timestamp": "01:54"
+    },
+    {
+      "quote_ko": "실험실에서 한두 대 만들고 있던 로봇 회사들이 다 현대차에 가서 '우리 것도 만들어 주세요'. 그럼 이게 어떻게 보면 반도체에서 TSMC나 삼성전자가 하는 일이거든요.",
+      "quote_en": "Robot companies that were hand-building one or two units in a lab all go to Hyundai saying, 'Build ours too.' In a way, that's exactly what TSMC and Samsung do in semiconductors.",
+      "context_ko": "김덕진 소장이 현대차의 휴머노이드 양산 전략을 반도체 파운드리에 비유하며.",
+      "date": "2026-01-19",
+      "video_id": "B8hpYECt1hY",
+      "timestamp": "19:46"
+    },
+    {
+      "quote_ko": "AI에게 감정이 있냐고 묻는 것은 잠수함에게 수영할 수 있느냐고 묻는 거랑 비슷하다. 물속을 이동한다는 기능은 같지만 일어나는 일의 본질은 완전히 다르다.",
+      "quote_en": "Asking whether AI has emotions is like asking whether a submarine can swim. The function — moving through water — is the same, but what's actually happening is fundamentally different.",
+      "context_ko": "김덕진 소장이 앤스로픽의 AI 내부 감정 신호 연구를 소개하며 인간과 AI의 본질적 차이를 짚으며.",
+      "date": "2026-04-06",
+      "video_id": "gXv3nPXn4B4",
+      "timestamp": "20:39"
+    },
+    {
+      "quote_ko": "지금 이거는 냉정하게 말하면 부품의 호황이지, 플랫폼의 주권은 아니라는 거죠.",
+      "quote_en": "Cold and honest: what we have right now is a components boom — not platform sovereignty.",
+      "context_ko": "김덕진 소장이 반도체 특수에 기대는 한국 AI 산업의 현주소를 진단하며.",
+      "date": "2026-05-04",
+      "video_id": "_lMm1HKYOnY",
+      "timestamp": "13:14"
+    },
+    {
+      "quote_ko": "젠슨 황이 데이터센터를 AI 팩토리, 공장이라고 불렀어요. 전기를 넣으면 24시간 토큰을 찍어낸다라는 거고요.",
+      "quote_en": "Jensen Huang called the data center an 'AI factory' — you feed in electricity, and it stamps out tokens 24 hours a day.",
+      "context_ko": "김덕진 소장이 젠슨 황 방한을 계기로 AI 인프라의 수익 구조를 설명하며.",
+      "date": "2026-06-08",
+      "video_id": "tYro7k3JBmQ",
+      "timestamp": "02:24"
+    },
+    {
+      "quote_ko": "수능 성적을 연습장 많이 쓴 사람이 성적 높은 거다, 이렇게 한 거랑 비슷하다는 거예요.",
+      "quote_en": "It's like grading the college entrance exam by how many scratch pads a student burned through.",
+      "context_ko": "김덕진 소장이 토큰 소모량을 성과로 착각하는 '토큰 맥싱' 문화를 꼬집으며.",
+      "date": "2026-06-22",
+      "video_id": "6p6CRVhdaRo",
+      "timestamp": "16:03"
+    },
+    {
+      "quote_ko": "1년 전까지만 해도 중국은 폐쇄적이고 미국은 개방적이다, 이런 게 상식이었는데 지금은 오히려 중국 모델은 누구나 내려받는 오픈 웨이트로 나오고, 미국 최고 모델은 정부 허가받은 소수만 쓰는 구조가 됐다.",
+      "quote_en": "Just a year ago the common sense was 'China is closed, America is open.' Now it's flipped: Chinese models ship as open weights anyone can download, while America's best models are reserved for the government-approved few.",
+      "context_ko": "김덕진 소장이 미중 AI 개방-폐쇄 구도의 역전을 정리하며.",
+      "date": "2026-06-29",
+      "video_id": "7_23a6wSyws",
+      "timestamp": "12:07"
+    }
+  ]
+}

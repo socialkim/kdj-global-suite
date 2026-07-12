@@ -274,6 +274,16 @@
   }
 </style>
 
+<div id="v2-banner" style="display:none;background:var(--onair-soft);border-bottom:1px solid var(--onair);padding:8px 20px;text-align:center;font-size:13px">
+  🆕 검색으로 질문을 찾아보는 <a href="./" style="font-weight:700">v2 서비스가 나왔습니다 →</a>
+  <span style="color:var(--text-3);font-size:11.5px">(이 페이지는 v1 클래식 아카이브로 계속 유지됩니다)</span>
+</div>
+<script>
+  // show the banner only when served next to v2 (GitHub Pages), not on the standalone artifact
+  fetch('index.html', { method: 'HEAD' }).then(r => {
+    if (r.ok && location.pathname.endsWith('v1.html')) document.getElementById('v2-banner').style.display = 'block';
+  }).catch(() => {});
+</script>
 <header class="masthead">
   <div class="wrap">
     <div class="onair-row"><span class="onair-dot"></span> ON AIR · ANSWER ARCHIVE</div>
