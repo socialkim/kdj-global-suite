@@ -14,4 +14,5 @@ def build(data_file, tpl_file, out_file):
     print(f'{out_file}: {len(html):,} bytes | topics={len(data.get("topics", []))} videos={len(data.get("videos", []))}')
 
 build('data.json', 'template.html', 'v1.html')
-build('data-v2.json', 'template-v2.html', 'index.html')
+build('data-v2.json', 'template-v2.html', 'v2.html')
+build('data-v2.json', 'template-v3.html', 'index.html')
