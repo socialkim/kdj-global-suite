@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Global 김덕진 — English Subtitles & AI Summary",
+  "version": "1.0.0",
+  "description": "Korean tech broadcasts by Kim Dukjin (IT Communication Research Institute), made accessible to global viewers: live English subtitles + AI summaries on YouTube.",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://translate.googleapis.com/*",
+    "https://api.anthropic.com/*",
+    "https://api.openai.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Global 김덕진"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

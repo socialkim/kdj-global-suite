@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body {
+    width: 320px; margin: 0; padding: 16px;
+    font-family: Roboto, "Noto Sans KR", sans-serif;
+    background: #101725; color: #e8edf6; font-size: 13px;
+  }
+  h1 { font-size: 15px; margin: 0 0 2px; }
+  .sub { color: #8fa3c8; font-size: 11px; margin-bottom: 14px; }
+  label.row { display: flex; align-items: center; gap: 8px; margin: 8px 0; cursor: pointer; }
+  fieldset {
+    border: 1px solid rgba(120,160,255,.2); border-radius: 10px;
+    margin: 12px 0; padding: 10px 12px;
+  }
+  legend { font-size: 11px; color: #7fd1a8; text-transform: uppercase; letter-spacing: .8px; padding: 0 4px; }
+  select, input[type=password], input[type=text] {
+    width: 100%; box-sizing: border-box; background: #1b2740; color: #e8edf6;
+    border: 1px solid rgba(120,160,255,.25); border-radius: 6px; padding: 6px 8px;
+    margin: 4px 0 8px; font-size: 12px;
+  }
+  .hint { font-size: 10.5px; color: #7c8db0; margin-top: -4px; margin-bottom: 6px; }
+  .saved { color: #7fd1a8; font-size: 11px; height: 14px; margin-top: 6px; }
+  a { color: #86a8ff; }
+</style>
+</head>
+<body>
+  <h1>🌏 Global 김덕진</h1>
+  <div class="sub">English subtitles &amp; AI summaries for Kim Dukjin's Korean broadcasts</div>
+
+  <label class="row"><input type="checkbox" id="enabled"> Show English subtitles</label>
+  <label class="row"><input type="checkbox" id="dual"> Dual subtitles (Korean + English)</label>
+  <label class="row"><input type="checkbox" id="autoSummary"> AI summary panel</label>
+
+  <fieldset>
+    <legend>Translation engine</legend>
+    <select id="engine">
+      <option value="google">Google Translate (free, no key needed)</option>
+      <option value="claude">Claude API (best quality)</option>
+      <option value="openai">OpenAI API</option>
+    </select>
+
+    <div id="claudeBox" style="display:none">
+      <input type="password" id="claudeKey" placeholder="Claude API key (sk-ant-…)">
+      <input type="text" id="claudeModel" placeholder="claude-opus-4-8">
+      <div class="hint">Model: claude-opus-4-8 (best) · claude-haiku-4-5 (cheap &amp; fast)</div>
+    </div>
+    <div id="openaiBox" style="display:none">
+      <input type="password" id="openaiKey" placeholder="OpenAI API key (sk-…)">
+      <input type="text" id="openaiModel" placeholder="gpt-4o-mini">
+    </div>
+    <div class="hint">API keys are stored in your browser's extension storage and sent only to the selected provider. A key also enables live AI summaries for videos outside the curated playlist.</div>
+  </fieldset>
+
+  <div class="saved" id="saved"></div>
+  <div style="margin-top:10px;padding-top:8px;border-top:1px solid rgba(120,160,255,.15);font-size:10.5px;color:#7c8db0">
+    Made with <b style="color:#a8bfff">Claude Fable 5</b> (Anthropic)
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
