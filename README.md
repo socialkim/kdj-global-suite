@@ -6,8 +6,11 @@
 
 | 프로젝트 | 바로가기 |
 |----------|----------|
-| 📜 **김덕진 답변 연대기** — 같은 질문에 대한 답이 시간에 따라 어떻게 진화했는지 추적하는 웹 서비스 | **[라이브 페이지](https://socialkim.github.io/kdj-global-suite/)** |
+| 📜 **김덕진 답변 연대기 v2** — 질문을 검색하면 과거→현재 답변 변화를 보여주는 검색형 서비스 (김덕진 소장 방송 69편 전용) | **[라이브 페이지](https://socialkim.github.io/kdj-global-suite/)** |
+| 📜 답변 연대기 v1 (클래식 아카이브 뷰) | [v1.html](https://socialkim.github.io/kdj-global-suite/v1.html) |
 | 🌏 **Global 김덕진** — 한국어 방송에 영어 자막·AI 요약을 입히는 크롬 확장 | **[다운로드 (zip)](https://github.com/socialkim/kdj-global-suite/releases/latest)** |
+
+> v2는 화자 분류를 거쳐 **김덕진 소장 본인 방송(69편)만** 수록합니다. v1은 플레이리스트 전체(91편, 타화자 포함) 기준의 클래식 뷰로 보존되며, v2 상단의 "v1과 비교" 버튼으로 나란히 볼 수 있습니다.
 
 ---
 
