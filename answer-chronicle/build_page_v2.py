@@ -15,4 +15,5 @@ def build(data_file, tpl_file, out_file):
 
 build('data.json', 'template.html', 'v1.html')
 build('data-v2.json', 'template-v2.html', 'v2.html')
-build('data-v2.json', 'template-v3.html', 'index.html')
+build('data-v2.json', 'template-v3.html', 'v3.html')
+build('data-v2.json', 'template-v4.html', 'index.html')
