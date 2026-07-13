@@ -6,11 +6,12 @@
 
 | 프로젝트 | 바로가기 |
 |----------|----------|
-| 📜 **김덕진 답변 연대기 V3** — 질문을 검색하면 과거→현재 답변 변화를 보여주는 검색형 서비스 | **[라이브 페이지](https://socialkim.github.io/kdj-global-suite/)** |
-| 📜 연대기 V2 (검색형 초기 버전) / V1 (클래식 아카이브) | [v2.html](https://socialkim.github.io/kdj-global-suite/v2.html) · [v1.html](https://socialkim.github.io/kdj-global-suite/v1.html) |
+| 📻 **김덕진 답변 연대기 V4** — '생방송 기록' 프리미엄 디자인. 질문 검색 → 과거/현재 답변 변화 | **[라이브 페이지](https://socialkim.github.io/kdj-global-suite/)** |
+| 📜 연대기 V3 / V2 / V1 (이전 버전 보존) | [v3.html](https://socialkim.github.io/kdj-global-suite/v3.html) · [v2.html](https://socialkim.github.io/kdj-global-suite/v2.html) · [v1.html](https://socialkim.github.io/kdj-global-suite/v1.html) |
 | 🌏 **Global 김덕진** — 한국어 방송에 영어 자막·AI 요약을 입히는 크롬 확장 | **[다운로드 (zip)](https://github.com/socialkim/kdj-global-suite/releases/latest)** |
 
-> V2부터는 화자 분류를 거쳐 **김덕진 소장 본인 방송(69편)만** 수록합니다. V3는 경쟁 구현(ChatGPT 제작 버전)을 실측 리뷰한 뒤 장점 — 카테고리 필터, 변화 크기 배지, 답변 지형도 매트릭스, Δ 직전 답변과 달라진 점, 썸네일 근거 카드, 버전 스위처 — 을 흡수하고, 고유 강점(자막 원문 인용+타임스탬프 점프, 질문당 최대 26개 답변, 예측 채점표, 명언 아카이브, EN 토글)을 유지한 업그레이드입니다.
+> V2부터는 화자 분류를 거쳐 **김덕진 소장 본인 방송(69편)만** 수록합니다.
+> **V4**는 "생방송 기록(Live Record)" 컨셉의 전면 디자인 리뉴얼입니다 — 방송인이라는 주제에 뿌리내린 **시그널 웨이브폼 히어로**(막대 하나 = 방송 한 편, 높이 = 그 방송이 답한 추적 질문 수, 최신 방송은 앰버 발광), 핵심 주제를 색으로 인코딩한 **과거=teal / 현재=amber 2색 시간 언어**, 따뜻한 방송 스튜디오 톤 팔레트, Noto Serif KR 헤드라인. 내용(자막 원문 인용·타임스탬프 점프·질문당 최대 26개 답변·예측 채점표·명언·EN 토글)은 그대로이며, 상단 스위처로 V1~V4를 오가고 "V3와 비교"로 나란히 볼 수 있습니다.
 
 ---
 
